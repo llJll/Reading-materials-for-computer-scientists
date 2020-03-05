@@ -1,6 +1,6 @@
 # Reading-materials-for-computer-scientists
 
-This document organizes the materials highly recommended to read for experienced people working in computer science field. I wish the document can help you.
+This document organizes the materials highly recommended to read for experienced people working in computer science field. The document is keeping updated and I wish the document can help you.
 
 ## Research and Academic Writing
 
