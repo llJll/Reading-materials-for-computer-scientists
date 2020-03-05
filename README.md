@@ -15,7 +15,7 @@ This document organizes the materials highly recommended to read for experienced
 
 - Introduction to algorithms (third edition)
 
-This book is classical and over 1000 pages, but it is still to read. In fact, I am pleased when reading it.
+This book is classical and over 1000 pages, but it is still worthy to read. In fact, I am pleased when reading it.
 
 ## Programming
 
