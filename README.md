@@ -23,6 +23,8 @@ This document organizes the materials highly recommended to read for experienced
 - Refactoring: Improving The Design of Existing Code
 
 ## Online Resources
-
+### Papers
 - https://dl.acm.org/
 - https://arxiv.org/corr
+### Datasets
+- https://www.kaggle.com/
